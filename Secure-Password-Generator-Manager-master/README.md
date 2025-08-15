@@ -1,4 +1,4 @@
-# Developed by YASWANTH
+# Developed by Vamsi
 📌 Description:
 A web-based secure password generator and manager built using Python and Streamlit, enabling users to generate strong passwords and store them securely in Google Sheets. The system ensures compliance with customizable security rules and allows easy retrieval of saved passwords.
 
